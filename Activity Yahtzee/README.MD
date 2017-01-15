@@ -1,4 +1,1 @@
-Given a 
-
-
-	
+Implementing game of chance.
